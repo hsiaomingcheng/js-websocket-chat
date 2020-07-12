@@ -1,0 +1,12 @@
+.message-board {
+    margin-bottom: 50px;
+    padding: 10px;
+    border: solid 1px #CCC;
+    width: 400px;
+    height: 400px;
+    box-sizing: border-box;
+}
+
+.message-board p {
+    margin: 0 0 15px;
+}
